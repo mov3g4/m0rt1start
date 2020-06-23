@@ -1,3 +1,3 @@
 #!/bin/bash
-xrandr -s 1920x1080
+xrandr -s 1280x1024
 setxkbmap -layout es
